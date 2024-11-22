@@ -10,6 +10,8 @@
   <ItemGroup>
     <Compile Remove="Program.cs" />
     <None Include="Program.cs" />
+    <Compile Remove="TwoNumDiff.cs" />
+    <None Include="TwoNumDiff.cs" />
   </ItemGroup>
 
 </Project>
