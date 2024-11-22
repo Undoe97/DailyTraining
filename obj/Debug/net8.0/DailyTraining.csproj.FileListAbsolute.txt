@@ -1,0 +1,15 @@
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.AssemblyInfoInputs.cache
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.AssemblyInfo.cs
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.csproj.CoreCompileInputs.cache
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.sourcelink.json
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\bin\Debug\net8.0\DailyTraining.exe
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\bin\Debug\net8.0\DailyTraining.deps.json
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\bin\Debug\net8.0\DailyTraining.runtimeconfig.json
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\bin\Debug\net8.0\DailyTraining.dll
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\bin\Debug\net8.0\DailyTraining.pdb
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.dll
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\refint\DailyTraining.dll
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.pdb
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\DailyTraining.genruntimeconfig.cache
+C:\Users\rgnjk\Desktop\DailyTraining\DailyTraining\obj\Debug\net8.0\ref\DailyTraining.dll
