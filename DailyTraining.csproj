@@ -12,6 +12,8 @@
     <None Include="Program.cs" />
     <Compile Remove="TwoNumDiff.cs" />
     <None Include="TwoNumDiff.cs" />
+    <Compile Remove="ControlNum.cs" />
+    <None Include="ControlNum.cs" />
   </ItemGroup>
 
 </Project>
